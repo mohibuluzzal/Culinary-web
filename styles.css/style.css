@@ -178,20 +178,20 @@ body{
 .follow-img-text{
     width: 50%;
 }
-.follow-img-text h2{
+.follow-img-text-heading{
     margin-bottom: 20px;
 }
-.follow-img-text p{
+.follow-img-text-para{
     margin-bottom: 40px;
-}
-    
+}    
 .primary-text-type-5{
     color: rgb(16, 16, 16);
     font-family: Work Sans;
     font-size: 22px;
     font-weight: 600;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     opacity: 0.7;
 }
 .icon{
@@ -212,32 +212,14 @@ body{
 /* follow us section styles end
 ================================== */
 
-/* footer section start */
+/* footer section start
+======================= */
 footer{
     padding-top: 130px;
     background-image: url(../assets/social-bg.png);
     background-repeat: no-repeat;
    background-size: cover;
-}
-.follow-img-text-container{
-    
-}
-.follow-img-text-container h2{
-    margin-bottom: 20px;
-}
-.follow-img-text-container p{
-    margin-bottom: 40px;
-}
-    
-.primary-text-type-5{
-    color: rgb(16, 16, 16);
-    font-family: Work Sans;
-    font-size: 22px;
-    font-weight: 600;
-    text-align: center;
-    margin-top: 30px;
-    opacity: 0.7;
-}
+} 
 .icon-special{
     display: flex;
     justify-content: center;
@@ -245,12 +227,5 @@ footer{
     margin-top: 25px;
     padding-bottom: 130px;
 }
-.facebook{
-    color: blue;
-}
-.instagram{
-    color: #A04CAF;
-}
-.pinterest{
-    color: red;
-}
+/* footer section end
+======================= */
